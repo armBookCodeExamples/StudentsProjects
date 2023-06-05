@@ -2,7 +2,7 @@
 
 Below are some examples of final course projects made by students after using the book.
 
-### #1 Gardener: a garden monitoring and control system controlled through Internet
+### #1 eGardener: a garden monitoring and control system controlled through Internet
 
 <img src="https://github.com/armBookCodeExamples/StudentsProjects/blob/main/eGardener.png" style="width:45%;">
 
