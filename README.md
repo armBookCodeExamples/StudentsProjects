@@ -32,6 +32,7 @@ Below are some examples of final course projects made by students after using th
 
 **University**: [Union College](https://www.union.edu/ecbe)
 
+<br>
 
 ### #3 GPS tracker system for intelligence tasks
 
