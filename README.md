@@ -33,7 +33,7 @@ Below are some examples of final course projects made by students after using th
 **University**: [Union College](https://www.union.edu/ecbe)
 
 
-### #1 eGardener: a garden monitoring and control system controlled through Internet
+### #3 GPS tracker system for intelligence tasks
 
 <img src="Rastreador GPS Hardware.jpg" style="width:45%;">
 
