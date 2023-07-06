@@ -35,7 +35,7 @@ Below are some examples of final course projects made by students after using th
 
 ### #1 eGardener: a garden monitoring and control system controlled through Internet
 
-<img src="https://github.com/armBookCodeExamples/StudentsProjects/blob/main/Rastreador GPS Hardware.png" style="width:45%;">
+<img src="https://github.com/armBookCodeExamples/StudentsProjects/blob/main/Rastreador GPS Hardware.jpg" style="width:45%;">
 
 **Project summary**: GPS tracker system for intelligence tasks, consists of an autonomous device built with the objective of getting the localization of himself in real time, and sending it to a remote base, in order to keep the track of a vehicle.
 
