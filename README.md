@@ -32,3 +32,21 @@ Below are some examples of final course projects made by students after using th
 
 **University**: [Union College](https://www.union.edu/ecbe)
 
+<br>
+
+### #3 GPS tracker: A system for intelligence operations
+
+<img src="https://github.com/armBookCodeExamples/StudentsProjects/blob/main/GPStracker.jpg" style="width:45%;">
+
+**Project summary**: GPS tracker system for intelligence operations consists of an autonomous device built with the objective of getting its localization and sending it to a remote base, in order to keep track of a vehicle.
+
+**Project video summary**: [YouTube video | Duration: 1:52](https://youtu.be/a8jGT762qU8)
+
+**Project repository**: https://github.com/FacundoBaez1994/Rastreador-GPS-
+
+**Student name**: Facundo Emiliano Baez
+
+**University**: [UBA | Facultad de Ingeniería](https://www.fi.uba.ar/)
+
+<br>
+
