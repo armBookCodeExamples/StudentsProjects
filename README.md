@@ -16,9 +16,9 @@ Below are some examples of final course projects made by students after using th
 
 **University**: [UBA | Facultad de Ingeniería](https://www.fi.uba.ar/)
 
-<br>
+---
 
-### #2 Wake and Shake: an alarm clock which forces the user out of bed.
+### #2 Wake and Shake: an alarm clock which forces the user out of bed
 
 <img src="https://github.com/armBookCodeExamples/StudentsProjects/blob/main/wakeandshakepic.png" style="width:45%;">
 
@@ -32,7 +32,7 @@ Below are some examples of final course projects made by students after using th
 
 **University**: [Union College](https://www.union.edu/ecbe)
 
-<br>
+---
 
 ### #3 GPS tracker: A system for intelligence operations
 
@@ -48,7 +48,7 @@ Below are some examples of final course projects made by students after using th
 
 **University**: [UBA | Facultad de Ingeniería](https://www.fi.uba.ar/)
 
-<br>
+---
 
 ### #4 E Save Bluetooth: Regulates electrical consumption at home
 
@@ -64,5 +64,5 @@ Below are some examples of final course projects made by students after using th
 
 **University**: [UBA | Facultad de Ingeniería](https://www.fi.uba.ar/)
 
-<br>
+---
 
