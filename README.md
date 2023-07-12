@@ -56,7 +56,7 @@ Below are some examples of final course projects made by students after using th
 
 **Project summary**: E-Save Bluetooth is a low cost device which turns an electric appliance off if it does not detect presence in its environment for a certain period of time. It can be configured via Bluetooth Low Energy.
 
-**Project video summary**: [YouTube video | Duration: 1:52](https://youtu.be/7VQmzgYBaYI)
+**Project video summary**: [YouTube video | Duration: 1:53](https://youtu.be/7VQmzgYBaYI)
 
 **Project repository**: [https://github.com/deve023/E-Save_Bluetooth](https://github.com/deve023/E-Save_Bluetooth/blob/main/README.md)
 
