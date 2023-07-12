@@ -10,7 +10,7 @@ Below are some examples of final course projects made by students after using th
 
 **Project video summary**: [YouTube video | Duration: 1:35](https://youtu.be/BZyBL0NqB34)
 
-**Project repository**: https://github.com/mati1297/egardener
+**Project repository**: [https://github.com/mati1297/egardener](https://github.com/mati1297/egardener/blob/main/README.md)
 
 **Student name**: Matias Ezequiel Charrut
 
@@ -26,7 +26,7 @@ Below are some examples of final course projects made by students after using th
 
 **Project video summary**: [YouTube video | Duration: 2:11](https://youtu.be/qOXlusPb564)
 
-**Project repository**: https://github.com/dylandrobi/WakeAndShake
+**Project repository**: [https://github.com/dylandrobi/WakeAndShake](https://github.com/dylandrobi/WakeAndShake/blob/master/README.md)
 
 **Students name**: Dylan Robichaud and Gabi Acosta
 
@@ -42,9 +42,25 @@ Below are some examples of final course projects made by students after using th
 
 **Project video summary**: [YouTube video | Duration: 1:52](https://youtu.be/a8jGT762qU8)
 
-**Project repository**: https://github.com/FacundoBaez1994/Rastreador-GPS-
+**Project repository**: [https://github.com/FacundoBaez1994/Rastreador-GPS-](https://github.com/FacundoBaez1994/Rastreador-GPS-/blob/master/Readme.md)
 
 **Student name**: Facundo Emiliano Baez
+
+**University**: [UBA | Facultad de Ingeniería](https://www.fi.uba.ar/)
+
+<br>
+
+### #4 E Save Bluetooth: Regulates electrical consumption at home
+
+<img src="https://github.com/armBookCodeExamples/StudentsProjects/blob/main/eSaveB_portada.png" style="width:45%;">
+
+**Project summary**: E-Save Bluetooth is a low cost device which turns an electric appliance off if it does not detect presence in its environment for a certain period of time. It can be configured via Bluetooth Low Energy.
+
+**Project video summary**: [YouTube video | Duration: 1:52](https://youtu.be/7VQmzgYBaYI)
+
+**Project repository**: [https://github.com/deve023/E-Save_Bluetooth](https://github.com/deve023/E-Save_Bluetooth/blob/main/README.md)
+
+**Student name**: Agustín Mariano De Vedia
 
 **University**: [UBA | Facultad de Ingeniería](https://www.fi.uba.ar/)
 
