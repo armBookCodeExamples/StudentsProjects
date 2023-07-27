@@ -40,7 +40,7 @@ Below are some examples of final course projects made by students after using th
 
 **Project summary**: GPS tracker system for intelligence operations consists of an autonomous device built with the objective of getting its localization and sending it to a remote base, in order to keep track of a vehicle.
 
-**Project video summary**: [YouTube video | Duration: 1:52](https://youtu.be/a8jGT762qU8)
+**Project video summary**: [YouTube video | Duration: 1:37](https://youtu.be/a8jGT762qU8)
 
 **Project repository**: [https://github.com/FacundoBaez1994/Rastreador-GPS-](https://github.com/FacundoBaez1994/Rastreador-GPS-/blob/master/Readme.md)
 
