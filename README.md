@@ -66,3 +66,18 @@ Below are some examples of final course projects made by students after using th
 
 ---
 
+### #5 PetFeeder: A remote pet feeder system.
+
+<img src="https://github.com/armBookCodeExamples/StudentsProjects/blob/main/PetFeeder.png" style="width:45%;">
+
+**Project summary**: PetFeeder is a remote pet feeder system. This system notifies the user when the plate is empty and allows its filling with a portion that is a configurable parameter. This can be done with a button or using a smartphone.
+
+**Project video summary**: [YouTube video | Duration: 1:53](https://youtu.be/LcujW_UazSI)
+
+**Project repository**: [https://github.com/UlisesMontenegro/PetFeeder](https://github.com/UlisesMontenegro/PetFeeder/blob/master/README.md)
+
+**Student name**: Ulises Montenegro
+
+**University**: [UBA | Facultad de Ingeniería](https://www.fi.uba.ar/)
+
+---
