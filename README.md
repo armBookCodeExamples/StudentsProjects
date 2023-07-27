@@ -66,7 +66,7 @@ Below are some examples of final course projects made by students after using th
 
 ---
 
-### #5 PetFeeder: A remote pet feeder system.
+### #5 PetFeeder: A remote pet feeder system
 
 <img src="https://github.com/armBookCodeExamples/StudentsProjects/blob/main/PetFeeder.png" style="width:45%;">
 
