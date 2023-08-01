@@ -81,3 +81,18 @@ Below are some examples of final course projects made by students after using th
 **University**: [UBA | Facultad de Ingeniería](https://www.fi.uba.ar/)
 
 ---
+
+### #6 Time For Food - Dispenser de alimentos para mascota
+
+<img src="https://github.com/AEWehle/TP_Wehle_SistEmb/blob/master/images/presentation.jpg" style="width:45%;">
+
+**Project summary**: Time For Food is a pet food dispenser by schedules, with configurable weight control, event log on SD card, restoration of schedules in case of power outage, alarm, and a user interface from a display and a rotary encoder for complete configuration. The STM32 NUCLEO-F429ZI board is programmed in C++ language.
+
+**Project video summary**: [GitHub video | Duration: 02:23](https://github.com/AEWehle/TP_Wehle_SistEmb/blob/master/video%20-%20time%20for%20food.mp4). 
+[Secundary link](https://drive.google.com/file/d/1A6ycF8dj406sMSafjcJQT6d2JPbaW2a8/view?usp=sharing).
+
+**Project repository**: [https://github.com/UlisesMontenegro/PetFeeder](https://github.com/AEWehle/TP_Wehle_SistEmb/edit/master/README.md)
+
+**Student name**: Ángeles Elsa Wehle
+
+**University**: [UBA | Facultad de Ingeniería](https://www.fi.uba.ar/)
