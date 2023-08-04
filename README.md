@@ -81,3 +81,19 @@ Below are some examples of final course projects made by students after using th
 **University**: [UBA | Facultad de Ingeniería](https://www.fi.uba.ar/)
 
 ---
+
+### #6 Sleep Smart: Controls privacy blinds and bedroom lights
+
+<img src="https://github.com/armBookCodeExamples/StudentsProjects/blob/main/SleepSmartInfographic.jpg" style="width:45%;">
+
+**Project summary**: The system has privacy blinds to cover a window and lights to illuminate the room. The blinds should close at nighttime and the lights should turn on when the system detects activity (i.e. the user getting out of bed) in the room.
+
+**Project video summary**: [YouTube video | Duration: 2:09](https://youtu.be/43i98XtMTzo)
+
+**Project repository**: [https://github.com/myork106/ece-218_final_project](https://github.com/myork106/ece-218_final_project/blob/main/README.md)
+
+**Students name**: Jonathan Fischman and Michael York
+
+**University**: [Union College](https://www.union.edu/ecbe)
+
+---
