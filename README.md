@@ -97,3 +97,19 @@ Below are some examples of final course projects made by students after using th
 **University**: [Union College](https://www.union.edu/ecbe)
 
 ---
+
+### #7 Time for Food: Automatic dispenser for pets
+
+<img src="https://github.com/armBookCodeExamples/StudentsProjects/blob/main/TimeForFood.jpg" style="width:45%;">
+
+**Project summary**: Time For Food is a pet food dispenser by schedules, with configurable weight control, event log on SD card, restoration of schedules in case of power outage, alarm, and a user interface from a display and a rotary encoder for complete configuration.
+
+**Project video summary**: [YouTube video | Duration: 2:23](https://youtu.be/lEqs75hAZp4)
+
+**Project repository**: [https://github.com/AEWehle/TP_Wehle_SistEmb](https://github.com/AEWehle/TP_Wehle_SistEmb/edit/master/README.md)
+
+**Students name**: Ángeles Elsa Wehle
+
+**University**: [UBA | Facultad de Ingeniería](https://www.fi.uba.ar/)
+
+---
