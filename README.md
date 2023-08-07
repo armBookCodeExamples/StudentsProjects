@@ -106,7 +106,7 @@ Below are some examples of final course projects made by students after using th
 
 **Project video summary**: [YouTube video | Duration: 2:23](https://youtu.be/lEqs75hAZp4)
 
-**Project repository**: [https://github.com/AEWehle/TP_Wehle_SistEmb](https://github.com/AEWehle/TP_Wehle_SistEmb/edit/master/README.md)
+**Project repository**: [https://github.com/AEWehle/TP_Wehle_SistEmb](https://github.com/AEWehle/TP_Wehle_SistEmb/blob/master/README.md)
 
 **Students name**: Ángeles Elsa Wehle
 
