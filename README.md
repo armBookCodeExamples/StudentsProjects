@@ -113,3 +113,19 @@ Below are some examples of final course projects made by students after using th
 **University**: [UBA | Facultad de Ingeniería](https://www.fi.uba.ar/)
 
 ---
+
+### #8 Fish Tank Guardian: Automatic dispenser for fish
+
+<img src="https://github.com/armBookCodeExamples/StudentsProjects/blob/main/FishTankGuardian.png" style="width:45%;">
+
+**Project summary**: FishTankGuardian is a project designed to automate care of aquariums, featuring an automated feeding system that allows users to schedule specific feeding times for the fish.
+
+**Project video summary**: [YouTube video | Duration: 2:00](https://youtu.be/3Y8avGfooNs)
+
+**Project repository**: [https://github.com/martinquattro/FishTankGuardian](https://github.com/martinquattro/FishTankGuardian/blob/master/README.md)
+
+**Students name**: Martín Quattrone
+
+**University**: [UBA | Facultad de Ingeniería](https://www.fi.uba.ar/)
+
+---
