@@ -136,9 +136,9 @@ Below are some examples of final course projects made by students after using th
 
 **Project summary**: VisiBike improves visibility on bicycles by means of brake lights and turn signals via user-friendly buttons on the handlebars and a speedometer through a sensor and display.
 
-**Project video summary**: [YouTube video | Duration: 2:00](https://youtu.be/3Y8avGfooNs)
+**Project video summary**: [YouTube video | Duration: 4:45](https://youtu.be/8NliSpDBEwY)
 
-**Project repository**: [https://github.com/martinquattro/FishTankGuardian](https://github.com/martinquattro/FishTankGuardian/blob/master/README.md)
+**Project repository**: 
 
 **Students name**: Ethan Betchel and Grant Bouvin
 
