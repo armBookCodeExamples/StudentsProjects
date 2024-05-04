@@ -129,3 +129,19 @@ Below are some examples of final course projects made by students after using th
 **University**: [UBA | Facultad de Ingeniería](https://www.fi.uba.ar/)
 
 ---
+
+### #9 VisiBike: a smart bike system
+
+<img src="https://github.com/armBookCodeExamples/StudentsProjects/blob/main/VisiBike.png" style="width:45%;">
+
+**Project summary**: VisiBike improves visibility on bicycles by means of brake lights and turn signals via user-friendly buttons on the handlebars and a speedometer through a sensor and display.
+
+**Project video summary**: [YouTube video | Duration: 2:00](https://youtu.be/3Y8avGfooNs)
+
+**Project repository**: [https://github.com/martinquattro/FishTankGuardian](https://github.com/martinquattro/FishTankGuardian/blob/master/README.md)
+
+**Students name**: Ethan Betchel and Grant Bouvin
+
+**University**: [Union College](https://www.union.edu/ecbe)
+
+---
