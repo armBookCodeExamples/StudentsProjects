@@ -138,7 +138,7 @@ Below are some examples of final course projects made by students after using th
 
 **Project video summary**: [YouTube video | Duration: 4:45](https://youtu.be/8NliSpDBEwY)
 
-**Project repository**: 
+**Project repository**: [https://github.com/bechtele/VisiBike-Code](https://github.com/bechtele/VisiBike-Code/)
 
 **Students name**: Ethan Betchel and Grant Bouvin
 
