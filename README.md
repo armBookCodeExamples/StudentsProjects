@@ -140,7 +140,19 @@ Below are some examples of final course projects made by students after using th
 
 **Project repository**: [https://github.com/bechtele/VisiBike-Code](https://github.com/bechtele/VisiBike-Code/)
 
-**Students name**: Ethan Betchel and Grant Bouvin
+---
+
+### #10 Modified Microwave System: easily adjustable, wattage feature
+
+<img src="https://github.com/armBookCodeExamples/StudentsProjects/blob/main/ModifiedMicrowaveSystem.png" style="width:45%;">
+
+**Project summary**: The microwave system correctly models the basic functionalities of the ones in our homes now, but with an added, easily adjustable, wattage feature. 
+
+**Project video summary**: [YouTube video | Duration: 6:44](https://youtu.be/f-q2dEqqrrA)
+
+**Project repository**: [https://github.com/perkinsr/Final-Project/](https://github.com/perkinsr/Final-Project/blob/main/README.md)
+
+**Students name**: Lilly Marletta and Rebecca Perkins
 
 **University**: [Union College](https://www.union.edu/ecbe)
 
